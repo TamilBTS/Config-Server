@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related prod-3 APIs "
+  message: "Welcome to EazyBank cards related docker prod APIs "
   contactDetails:
     name: "Tamilarasi - Developer"
     email: "tamilarasi.srinivasan@outlook.com"
